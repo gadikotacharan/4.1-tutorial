@@ -1,0 +1,8 @@
+C:\Users\charan>npm install -g @angular/cli
+
+C:\Users\charan>ng new my-app
+C:\Users\charan>cd my-app
+
+C:\Users\charan\my-app>ng serve --open
+
+//server sucessfully created 
